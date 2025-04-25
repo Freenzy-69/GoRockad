@@ -1,2 +1,5 @@
 # GoRockad
-Scritpts
+# BLAHBLAHBLAH
+# BLEHBLEHBLEH
+# BLUHBLUHBLUH
+some scripts
